@@ -1,4 +1,7 @@
 [0m[[0m[0minfo[0m] [0m[0m[32mmenuTests:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- Service charge[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- Invoice[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Service charge - Drinks only[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Service charge - Bill with cold food[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Service charge - Bill with hot food < 20 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Service charge - Bill with hot food > 20 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Standard Bill[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[33m- Split charge (pending)[0m[0m

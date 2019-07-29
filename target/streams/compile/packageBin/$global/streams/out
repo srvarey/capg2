@@ -1,0 +1,21 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/srv/git/capg2/target/scala-2.13/scalatest-example_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	billing/Restaurant$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/srv/git/capg2/target/scala-2.13/classes/billing/Restaurant$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	billing/Restaurant$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/srv/git/capg2/target/scala-2.13/classes/billing/Restaurant$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	billing/Menu.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/srv/git/capg2/target/scala-2.13/classes/billing/Menu.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	billing/Restaurant.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/srv/git/capg2/target/scala-2.13/classes/billing/Restaurant.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	billing/Restaurant$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/srv/git/capg2/target/scala-2.13/classes/billing/Restaurant$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	billing[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/srv/git/capg2/target/scala-2.13/classes/billing[0m
+[0m[[0m[0mdebug[0m] [0m[0m	billing/MenuItem$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/srv/git/capg2/target/scala-2.13/classes/billing/MenuItem$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	billing/MenuItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/srv/git/capg2/target/scala-2.13/classes/billing/MenuItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	billing/Restaurant$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/srv/git/capg2/target/scala-2.13/classes/billing/Restaurant$$anonfun$2.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
